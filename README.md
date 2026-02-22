@@ -1,4 +1,4 @@
-# portfolio
+# Portfólio
 Repositório dedicado à minha atuação como organizadora de eventos, reunindo portfólio, documentos, checklists, templates e materiais que utilizo no planejamento, produção e execução de eventos sociais e corporativos.
 Perfeito, Michele — aqui está o **README completo e finalizado**, prontinho para você anexar no GitHub. Ele está organizado, profissional e transmite exatamente o que você faz como organizadora de eventos.
 
